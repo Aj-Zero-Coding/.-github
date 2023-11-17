@@ -1,6 +1,8 @@
-# CodeMastermindHQ
+## CodeMastermindHQ
 
 Welcome to CodeMastermindHQ, where innovation meets excellence in web development! 🚀
+
+![image](https://github.com/CodeMastermindHQ/.github/assets/99037494/98d18e77-cbec-4351-9c33-0f8865356b1c)
 
 ## About Us
 
