@@ -37,11 +37,7 @@ To get involved with EcoFarmHub, follow these steps:
 
 1. **Explore Our Repositories**: Browse our GitHub repositories to find projects that interest you. Each repository contains detailed information on the project's goals, setup instructions, and contribution guidelines.
 
-2. **Clone the Repository**: If you want to contribute to a project, clone the repository to your local machine using the following command:
-
-   ```bash
-   git clone https://github.com/EcoFarmHub/[repository-name].git
-   ```
+2. **Clone the Repository**: If you want to contribute to a project, clone the repository to your local machine.
 
 3. **Install Dependencies**: Follow the instructions in the repository's `README.md` file to install any necessary dependencies or tools.
 
