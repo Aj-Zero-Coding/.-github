@@ -1,5 +1,8 @@
 # EcoFarmHub
 
+![{57EECBB5-F7AA-4BD9-B0C9-B09CF8FEB069}](https://github.com/user-attachments/assets/c4db316c-2f99-4a95-a943-ddeb6210b557)
+
+
 Welcome to **EcoFarmHub**! We are a vibrant community dedicated to pioneering sustainable practices in agriculture and animal care. Our focus is on fostering innovation in organic farming and responsible animal stewardship to build a greener and more compassionate world.
 
 ## Table of Contents
